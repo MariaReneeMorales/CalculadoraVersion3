@@ -75,7 +75,7 @@ public class CalculadoraVersion3 {
         }
     }
 
-    //Funicón raíz cuadrada.
+    //Funicón residuo.
     public static void operarResiduo(double lnValor1, double lnValor2){
         //Definición e Inicialización de variables.
         var lnResultado = 0.0;
